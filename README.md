@@ -32,3 +32,6 @@ Para la instalación y uso de la aplicación, debes descargar este repositorio. 
 
 ## Uso
 Por defecto la aplicación mostrará el Bitcoin con el precio en euros, el usuario podra elegir si mostrar otra de las criptomonedas que se muetran en las opciones, así como cambiar la moneda en la que se muestra el precio. Además en caso de que quiera saber el porcentage de beneficio/perdida con respecto aun precio de compra podrá saberlo intrudiciendo este precio de compra en el apartado de inversión.
+
+## Autor
+danielperezalejandro
